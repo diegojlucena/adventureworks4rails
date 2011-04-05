@@ -1,0 +1,9 @@
+== AdventureWorks4Rails
+
+== Maintainers
+
+* Diego Lucena (http://github.com/diegojlucena)
+
+== License
+
+MIT License.
